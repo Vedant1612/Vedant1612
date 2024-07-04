@@ -110,7 +110,7 @@
 <!-- GitHub streak stats -->
 <p>&nbsp;</p>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant1612&show_icons=true&locale=en&theme=dark" alt="vedant1612" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant1612&theme=dark" alt="vedant1612" />
 </div>
 
