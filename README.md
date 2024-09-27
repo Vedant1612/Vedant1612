@@ -1,12 +1,12 @@
 <!-- Banner Image -->
-<img src="https://media.licdn.com/dms/image/D4D16AQEFx1LBo_JPgg/profile-displaybackgroundimage-shrink_350_1400/0/1679591682626?e=1725494400&v=beta&t=n6ZqIaUt99RaolEddMGXZKf1FG5BJ7bQH272YE3cnKI" alt="Banner Image" width="100%">
+<img src="banner.png" alt="Banner Image" width="100%">
 
 <!-- Main content -->
 <h1 align="center">Hi 👋, I'm Vedant Kulkarni</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
 <!-- Image aligned to the right -->
-<img align="right" alt="Coding" width="400" src="image_animated-removebg-preview.png">
+<img align="right" alt="Coding" width="300" src="image_animated-removebg-preview.png">
 
 <!-- GitHub profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant1612&label=Profile%20views&color=0e75b6&style=flat" alt="vedant1612" /> </p>
@@ -25,11 +25,11 @@
   <a href="https://www.leetcode.com/vedant_16" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedant_16" height="30" width="40" /></a>
 </p>
 
-<!-- Tech Stack -->
-<h3 align="left">Tech Stack:</h3>
+
 
 <!-- Tech Stack -->
-<h3 align="center">Tech Stack:</h3>
+<div>
+<h3 align="left">Tech Stack:</h3>
 
 <!-- Frontend technologies -->
 <table align="center">
@@ -101,7 +101,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 <!-- GitHub stats -->
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant1612&show_icons=true&locale=en&layout=compact&theme=dark" alt="vedant1612" />
