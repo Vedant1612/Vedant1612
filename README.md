@@ -51,11 +51,23 @@ Here’s a quick snapshot of who I am:
 
 <div align="center">
 
-<a href="https://github-stats-alpha.vercel.app/api?username=vedant1612&cc=000&tc=fff&ic=fff&bc=000">
-  <img src="https://github-stats-alpha.vercel.app/api?username=vedant1612&cc=000&tc=fff&ic=fff&bc=000" alt="Vedant's GitHub Stats">
+<!-- GitHub Readme Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedant1612&show_icons=true&theme=radical&count_private=true" alt="Vedant's GitHub Stats" height="150" />
+</a>
+
+<!-- Streak Stats -->
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vedant1612&theme=radical" alt="GitHub Streak" height="150" />
+</a>
+
+<!-- Top Languages -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant1612&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </a>
 
 </div>
+
 
 ---
 
