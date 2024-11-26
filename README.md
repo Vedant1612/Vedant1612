@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=vedant1612&style=flat-square&color=blue" alt="Profile Views" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0EF7E6&size=30&width=600&lines=Hello!+I'm+Vedant+Kulkarni;A+Tech-Savvy+Full-Stack+Developer;AI+Enthusiast+%7C+Cloud+Architect;Passionate+about+Innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0EF7E6&size=30&width=600&lines=Hello!+I'm+Vedant+Kulkarni;Full-Stack+Developer+%7C+AI+Enthusiast;Cloud+Architect+%7C+Tech+Innovator;Passionate+about+Technology)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,14 +15,24 @@
 
 ## 🌟 **About Me**
 
-I’m a **proactive developer and AI enthusiast** driven by the desire to solve real-world problems through **innovative, scalable technology solutions**. My journey spans a wide range of technologies, including **full-stack development**, **AI-driven analytics**, and **cloud infrastructure**.
+Hi there! 👋 I’m **Vedant Kulkarni**, a passionate **Full-Stack Developer**, **AI Enthusiast**, and **Cloud Architect** dedicated to creating impactful, scalable, and user-centric solutions.  
 
-Here’s a quick snapshot of who I am:  
-- 💼 **Software Developer**: Crafting seamless, scalable, and user-centric applications.  
-- 🔭 **Current Focus**: Building a seamless **school document management system** for efficient **document upload** and **verification**, while honing my expertise in **full-stack development**.  
-- 📊 **Past Projects**: Built efficient systems like radiation prediction models, cloud-integrated dashboards, and cutting-edge AI tools.  
-- 🌱 **Learning Never Stops**: Deep diving into **ML algorithms**, advanced **DevOps practices**, and **blockchain technology**.  
-- 🧩 **Fun Fact**: Avid chess player and advocate for technology in **sustainable development**.
+🔎 **What drives me?**  
+The thrill of solving real-world problems through cutting-edge technology and innovative thinking.  
+
+💡 **Core Expertise:**  
+- **Full-Stack Development**: Crafting seamless and scalable web solutions.  
+- **AI & Machine Learning**: Building data-driven systems for predictive insights.  
+- **Cloud Infrastructure**: Optimizing applications for performance and scalability.  
+
+🛠️ **Current Focus:**  
+Building a **school document management system** to simplify **upload** and **verification workflows**, while enhancing my expertise in modern development stacks.  
+
+🌱 **Forever Learning:**  
+I’m diving deeper into **DevOps automation**, **advanced ML models**, and the **future of blockchain**.  
+
+💬 **Let’s Connect:**  
+I’m always excited to discuss **new ideas**, collaborate on **exciting projects**, or share insights about **technology for sustainable growth**.
 
 ---
 
@@ -73,29 +83,26 @@ Here’s a quick snapshot of who I am:
 
 ## 🤝 **Let’s Connect**
 
-I'm always excited to collaborate, brainstorm, and build impactful solutions together.  
+I'm always eager to collaborate, brainstorm, and create impactful solutions. Let’s build something amazing together!  
 
 <div align="center">
 
-<a href="https://linkedin.com/in/vedantkulkarniindia/" title="LinkedIn">
-  <img height="40" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" />
-</a>
-<a href="mailto:Vedantkulkarni691@gmail.com" title="Email"> 
-  <img height="40" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Email" />
-</a>
-<a href="https://github.com/Vedant1612" title="GitHub">
-  <img height="40" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png" alt="GitHub" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedantkulkarniindia/)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Vedantkulkarni691@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vedant1612)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4E9CAF?style=for-the-badge&logo=google-chrome&logoColor=white)](#) <!-- Replace # with portfolio link -->
 
 </div>
 
 ---
 
-## 🚀 **What's New?**
+## 🚀 **What’s New?**
 
-Stay tuned as I embark on exciting new ventures:
-- 🎯 **AI-Driven Projects** for inclusivity and efficiency.
-- 🌐 Building tools for **better cloud integration and scalability**.
-- 📝 **Research Publications** on innovative uses of tech for real-world applications.
+Here’s what I’m currently working on:  
+- 🎯 **AI-Driven Projects** for inclusivity and efficiency.  
+- 🌐 Developing tools for **cloud integration** and **scalable solutions**.  
+- 📝 Publishing research on innovative uses of technology for real-world applications.  
+
+Stay tuned for updates on my journey!
 
 ---
