@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=vedant1612&style=flat-square&color=blue" alt="Profile Views" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0EF7E6&size=30&width=600&lines=Hello!+I'm+Vedant+Kulkarni;Full-Stack+Developer+%7C+AI+Enthusiast;Cloud+Architect+%7C+Tech+Innovator;Passionate+about+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0EF7E6&size=30&width=600&lines=Hello!+I'm+Vedant+Kulkarni;Full-Stack+Developer+%7C+AI+Enthusiast;Tech+Innovator;Passionate+about+Technology)](https://git.io/typing-svg)
 
 </div>
 
