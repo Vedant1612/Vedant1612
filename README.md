@@ -1,7 +1,7 @@
 <!-- Main Header -->
 <div align="center">
 
-![Profile Banner](https://via.placeholder.com/800x200/1E2A47/FFFFFF?text=Welcome+to+Vedant+Kulkarni's+World)
+
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=vedant1612&style=flat-square&color=blue" alt="Profile Views" />
