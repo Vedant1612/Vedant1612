@@ -34,13 +34,19 @@ Feel free to reach out if you want to discuss ideas, collaborate on projects, or
 
 ---
 
+## 📊 **GitHub Activity Graph**
+
+<div align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant1612&bg_color=0D1117&color=58A6FF&line=3FB950&point=F85149&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</div>
+
+---
+
 ## 🏆 **GitHub & LeetCode Streak Challenge**
 
 <div align="center">
-
-<!-- GitHub Contributions Snake Animation -->
-![GitHub Snake Animation](https://raw.githubusercontent.com/Vedant1612/Vedant1612/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake Animation](https://raw.githubusercontent.com/Vedant1612/Vedant1612/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!-- LeetCode Contribution Chart -->
 <a href="https://leetcode.com/Vedant_16/">
@@ -120,4 +126,3 @@ Here’s what I’m currently working on:
 Stay tuned for updates on my journey!
 
 ---
-
