@@ -1,10 +1,8 @@
 <!-- Main Header -->
 <div align="center">
 
-
-
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=vedant1612&style=flat-square&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Vedant1612&style=flat-square&color=blue" alt="Profile Views" />
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0EF7E6&size=30&width=600&lines=Hello!+I'm+Vedant+Kulkarni;Full-Stack+Developer+%7C+AI+Enthusiast;Tech+Innovator;Passionate+about+Technology)](https://git.io/typing-svg)
@@ -33,6 +31,23 @@ Always diving deeper into **DevOps automation**, **advanced ML models**, and exp
 
 💬 **Let’s Connect:**  
 Feel free to reach out if you want to discuss ideas, collaborate on projects, or just chat about the latest in tech.
+
+---
+
+## 🏆 **GitHub & LeetCode Streak Challenge**
+
+<div align="center">
+
+<!-- GitHub Contributions Snake Animation -->
+![GitHub Snake Animation](https://raw.githubusercontent.com/Vedant1612/Vedant1612/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Animation](https://raw.githubusercontent.com/Vedant1612/Vedant1612/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<!-- LeetCode Contribution Chart -->
+<a href="https://leetcode.com/Vedant_16/">
+  <img src="https://leetcard.jacoblin.cool/Vedant_16?theme=dark&font=Fira%20Code&ext=heatmap" alt="Vedant's LeetCode Streak Chart" height="300" />
+</a>
+
+</div>
 
 ---
 
