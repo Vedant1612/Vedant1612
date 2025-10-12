@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://komarev.ghpvc.vercel.app/api?username=Vedant1612&style=flat-square&color=25C3C3" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Vedant1612&style=flat-square&color=25C3C3" alt="Profile Views" />
 </div>
 
 <div align="center">
